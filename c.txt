@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This was added by developer 1
+=======
+This line was added by developer2
+>>>>>>> 7b9e0d7faf2448bd4f48c6310793c228d65fd2ae
